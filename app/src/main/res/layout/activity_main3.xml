@@ -5,18 +5,18 @@
     android:orientation="vertical"
     >
     <Button
-        android:id="@+id/btn_start_download"
+        android:id="@+id/start_download"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="开始下载"/>
 
     <Button
-        android:id="@+id/btn_stop_download"
+        android:id="@+id/pause_download"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="暂停下载"/>
     <Button
-        android:id="@+id/btn_cancel_download"
+        android:id="@+id/cancel_download"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="取消下载"/>
